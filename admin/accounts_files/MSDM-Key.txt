@@ -1,0 +1,31 @@
+Saved MSDM Key
+==============
+
+This is your private MSDM Key, do NOT post anywhere or give to anyone, it is locked 
+to the device that it is detected on.
+
+The detected MSDM Key is : KBNXK-6KFH6-BG3MJ-X89J4-BY49C
+
+Edition Key designed for : Win 10 Professional
+
+If required, you can insert this MSDM Key manually via a Admin Command Prompt using:
+
+slmgr.vbs /ipk KBNXK-6KFH6-BG3MJ-X89J4-BY49C
+slmgr.vbs /ato
+
+The above commands will insert the MSDM Key and then attempt to Activate via the
+Microsoft Activation Server when the computer is online.
+
+Activation will ONLY occur if the Key is for the installed Edition.
+
+Note that inserting the MSDM Key manually may change the Edition that is installed
+due to License switching.
+
+=====================================
+Other Information about the MSDM Key:
+=====================================
+Group    ID: = '3305'
+Edition  ID: = 'Professional'
+Key Name ID: = 'Win 10 Professional'
+Branding ID: = 'HPQOEM' 
+
